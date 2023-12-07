@@ -58,4 +58,4 @@ The Blog with Microservices project is licensed under the [MIT License](LICENSE.
 
 ## Acknowledgments
 
-- This project showcases the power and flexibility of microservices architecture in modern web applications.
+- This project is inspired by Stephen Grider's course on Microservices.
